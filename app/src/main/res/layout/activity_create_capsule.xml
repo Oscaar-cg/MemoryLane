@@ -18,6 +18,12 @@
         android:layout_height="wrap_content"/>
 
     <Button
+        android:id="@+id/dateButton"
+        android:text="Select Date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
         android:id="@+id/saveButton"
         android:text="Save Capsule"
         android:layout_width="match_parent"

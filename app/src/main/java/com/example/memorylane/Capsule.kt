@@ -2,5 +2,6 @@ package com.example.memorylane
 
 data class Capsule(
     val title: String,
-    val date: String
+    val message: String,
+    val openDate: Long
 )
